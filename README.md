@@ -12,6 +12,9 @@ I have been studying Backend web development since April, 2022
 
 <br>
 
+# Main Skills
+Python / Django / Javascript
+
 # Projects
 ## 1. <a href="https://github.com/Jaewan-Choi/egodaeyeo-backend">이거대여</a>
 
