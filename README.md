@@ -26,6 +26,18 @@ I have been studying Backend web development since April, 2022
   프로젝트 기간 : 2022.07.07 ~ 2022.08.16<br>
   개발 인원 : 3인<br><br>
   기술 스택 :<br>
-  Django / DRF / Channels / Websocket / Javascript / HTML / CSS<br>
-  AWS / Github actions / Docker / Nginx / Gunicorn / PostgreSQL<br><br>
+  Python / Django / DRF / Channels / PostgreSQL / Websocket / Javascript / HTML / CSS<br>
+  AWS / Github actions / Docker / Nginx / Gunicorn<br><br>
   <a href="https://github.com/Jaewan-Choi/egodaeyeo-backend">프로젝트 상세 설명<a/>
+<br>
+
+## 2. <a href="https://github.com/Jaewan-Choi/naegrimfarm-backend">내그림팜</a>
+
+> 유화 제작 후 경매 서비스 플랫폼<br>
+  프로젝트 기간 : 2022.06.28 ~ 2022.07.05<br>
+  개발 인원 : 4인<br><br>
+  기술 스택 :<br>
+  Python / Django / DRF / MySQL / Javascript / HTML / CSS<br>
+  AWS / Nginx / Gunicorn<br><br>
+  <a href="https://github.com/Jaewan-Choi/naegrimfarm-backend">프로젝트 상세 설명<a/>
+<br>
