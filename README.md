@@ -14,7 +14,7 @@ I have been studying Backend web development since April, 2022
 
 # Skills
 * Back-End : Python / Django / Django REST Framework / Django Channels / AWS(EC2, S3, RDS, Route53) / Docker
-* Front-End : Websocket / Javascript / HTML / CSS
+* Front-End : Javascript / Websocket / HTML5 / CSS3
 * Database : MySQL / PostgreSQL
 
 <br>
